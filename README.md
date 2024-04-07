@@ -31,6 +31,8 @@ Note:
 
 This repository requires separate Python files for DAGs and Beam pipelines.
 The code prioritizes clean coding style, correctness, readability, and input validation.
+
+
 Getting Started:
 
 Clone this repository.
