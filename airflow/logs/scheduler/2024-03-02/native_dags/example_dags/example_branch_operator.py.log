@@ -1,0 +1,289 @@
+[2024-03-02T13:16:06.621+0530] {processor.py:161} INFO - Started process (PID=4243) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:16:06.622+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:16:06.625+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:16:06.624+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:16:06.961+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:16:06.958+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:16:06.962+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:16:06.990+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.375 seconds
+[2024-03-02T13:17:13.299+0530] {processor.py:161} INFO - Started process (PID=4782) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:17:13.303+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:17:13.305+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:17:13.304+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:17:13.604+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:17:13.601+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:17:13.606+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:17:13.648+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.356 seconds
+[2024-03-02T13:18:10.811+0530] {processor.py:161} INFO - Started process (PID=5622) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:18:10.824+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:18:10.826+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:18:10.825+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:18:11.194+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:18:11.192+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:18:11.195+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:18:11.252+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.446 seconds
+[2024-03-02T13:19:10.977+0530] {processor.py:161} INFO - Started process (PID=6115) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:19:10.990+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:19:10.992+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:19:10.991+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:19:11.370+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:19:11.352+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:19:11.373+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:19:11.457+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.485 seconds
+[2024-03-02T13:20:09.722+0530] {processor.py:161} INFO - Started process (PID=6982) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:20:09.725+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:20:09.728+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:20:09.727+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:20:10.070+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:20:10.065+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:20:10.072+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:20:10.138+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.423 seconds
+[2024-03-02T13:21:08.062+0530] {processor.py:161} INFO - Started process (PID=7743) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:21:08.065+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:21:08.069+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:21:08.068+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:21:08.528+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:21:08.525+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:21:08.529+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:21:08.597+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.543 seconds
+[2024-03-02T13:22:06.879+0530] {processor.py:161} INFO - Started process (PID=8416) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:22:06.891+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:22:06.893+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:22:06.893+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:22:07.165+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:22:07.162+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:22:07.166+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:22:07.212+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.338 seconds
+[2024-03-02T13:23:10.913+0530] {processor.py:161} INFO - Started process (PID=9382) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:23:10.916+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:23:10.919+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:23:10.918+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:23:11.374+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:23:11.371+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:23:11.375+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:23:11.415+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.511 seconds
+[2024-03-02T13:24:18.538+0530] {processor.py:161} INFO - Started process (PID=9997) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:24:18.541+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:24:18.542+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:24:18.542+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:24:18.814+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:24:18.812+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py", line 138, in <module>
+    branching_venv = BranchPythonVirtualenvOperator(
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 437, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/operators/python.py", line 584, in __init__
+    raise AirflowException("PythonVirtualenvOperator requires virtualenv, please install it.")
+airflow.exceptions.AirflowException: PythonVirtualenvOperator requires virtualenv, please install it.
+[2024-03-02T13:24:18.814+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:24:18.844+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.311 seconds
+[2024-03-02T13:25:21.452+0530] {processor.py:161} INFO - Started process (PID=10897) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:25:21.467+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:25:21.471+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.470+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:25:21.551+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:25:21.865+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.862+0530] {override.py:1769} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2024-03-02T13:25:21.924+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.922+0530] {override.py:1769} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2024-03-02T13:25:21.959+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.957+0530] {override.py:1769} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2024-03-02T13:25:21.961+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.960+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:25:22.001+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:21.999+0530] {dag.py:3058} INFO - Creating ORM DAG for example_branch_operator
+[2024-03-02T13:25:22.044+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:22.043+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:25:22.143+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.702 seconds
+[2024-03-02T13:26:24.258+0530] {processor.py:161} INFO - Started process (PID=11412) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:26:24.262+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:26:24.266+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:26:24.264+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:26:24.327+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:26:24.459+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:26:24.457+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:26:24.533+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:26:24.532+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:26:24.620+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.367 seconds
+[2024-03-02T13:27:22.539+0530] {processor.py:161} INFO - Started process (PID=12295) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:27:22.544+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:27:22.548+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:27:22.546+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:27:22.606+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:27:22.682+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:27:22.680+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:27:22.758+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:27:22.757+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:27:22.843+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.314 seconds
+[2024-03-02T13:35:14.831+0530] {processor.py:161} INFO - Started process (PID=17669) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:35:14.834+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:35:14.837+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:35:14.836+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:35:14.873+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:35:15.116+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:35:15.115+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:35:15.167+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:35:15.166+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:35:15.242+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.428 seconds
+[2024-03-02T13:36:13.191+0530] {processor.py:161} INFO - Started process (PID=18211) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:36:13.195+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:36:13.198+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:36:13.196+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:36:13.263+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:36:13.322+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:36:13.321+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:36:13.382+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:36:13.381+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:36:13.464+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.285 seconds
+[2024-03-02T13:38:12.122+0530] {processor.py:161} INFO - Started process (PID=19586) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:38:12.136+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T13:38:12.140+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:38:12.139+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:38:12.186+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T13:38:12.366+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:38:12.365+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T13:38:12.416+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:38:12.415+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T13:38:12.506+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.392 seconds
+[2024-03-02T16:15:54.509+0530] {processor.py:161} INFO - Started process (PID=121574) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:15:54.511+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:15:54.512+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:15:54.512+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:15:54.546+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:15:54.707+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:15:54.707+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:15:54.750+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:15:54.749+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:15:54.804+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.298 seconds
+[2024-03-02T16:16:48.073+0530] {processor.py:161} INFO - Started process (PID=122310) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:16:48.076+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:16:48.079+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:16:48.078+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:16:48.129+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:16:48.188+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:16:48.187+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:16:48.237+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:16:48.236+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:16:48.282+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.216 seconds
+[2024-03-02T16:21:09.078+0530] {processor.py:161} INFO - Started process (PID=125797) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:21:09.080+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:21:09.081+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:21:09.080+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:21:09.101+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:21:09.206+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:21:09.205+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:21:09.229+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:21:09.228+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:21:09.261+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.186 seconds
+[2024-03-02T16:22:16.565+0530] {processor.py:161} INFO - Started process (PID=126736) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:22:16.568+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:22:16.569+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:22:16.568+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:22:16.599+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:22:16.637+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:22:16.637+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:22:16.668+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:22:16.668+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:22:16.703+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.141 seconds
+[2024-03-02T16:33:10.274+0530] {processor.py:161} INFO - Started process (PID=135207) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:33:10.276+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:33:10.277+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:33:10.277+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:33:10.298+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:33:10.445+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:33:10.445+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:33:10.468+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:33:10.467+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:33:10.501+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.230 seconds
+[2024-03-02T16:34:12.650+0530] {processor.py:161} INFO - Started process (PID=136093) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:34:12.652+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:34:12.654+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:34:12.654+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:34:12.677+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:34:12.704+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:34:12.704+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:34:12.729+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:34:12.729+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:34:12.755+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.109 seconds
+[2024-03-02T16:35:10.867+0530] {processor.py:161} INFO - Started process (PID=137024) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:35:10.869+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:35:10.871+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:35:10.870+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:35:10.901+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:35:10.947+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:35:10.946+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:35:10.987+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:35:10.987+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:35:11.026+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.162 seconds
+[2024-03-02T16:36:12.215+0530] {processor.py:161} INFO - Started process (PID=137700) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:36:12.217+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:36:12.219+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:36:12.218+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:36:12.244+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:36:12.280+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:36:12.279+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:36:12.316+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:36:12.315+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:36:12.348+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.142 seconds
+[2024-03-02T16:37:13.687+0530] {processor.py:161} INFO - Started process (PID=138637) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:37:13.690+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-02T16:37:13.691+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:37:13.691+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:37:13.722+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-02T16:37:13.751+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:37:13.751+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-02T16:37:13.783+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:37:13.783+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-01 00:00:00+00:00, run_after=2024-03-02 00:00:00+00:00
+[2024-03-02T16:37:13.812+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.130 seconds

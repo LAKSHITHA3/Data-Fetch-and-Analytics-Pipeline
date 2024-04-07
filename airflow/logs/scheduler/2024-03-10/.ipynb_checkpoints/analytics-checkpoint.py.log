@@ -1,0 +1,14 @@
+[2024-03-10T22:14:05.091+0530] {processor.py:161} INFO - Started process (PID=22672) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py
+[2024-03-10T22:14:05.093+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py for tasks to queue
+[2024-03-10T22:14:05.095+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:14:05.094+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py
+[2024-03-10T22:14:05.114+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:14:05.112+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py", line 7, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+[2024-03-10T22:14:05.114+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py
+[2024-03-10T22:14:05.152+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/analytics-checkpoint.py took 0.066 seconds

@@ -1,0 +1,21 @@
+[2024-03-09T04:35:24.552+0530] {processor.py:161} INFO - Started process (PID=5493) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:35:24.554+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-09T04:35:24.557+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:24.556+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:35:24.597+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:35:24.802+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:24.801+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:35:24.859+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:24.858+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:35:24.937+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.393 seconds
+[2024-03-09T04:36:36.774+0530] {processor.py:161} INFO - Started process (PID=6468) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:36:36.776+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-09T04:36:36.777+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:36.776+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:36:36.803+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:36:36.839+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:36.839+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:36:36.884+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:36.883+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:36:36.917+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.147 seconds
+[2024-03-09T04:37:42.397+0530] {processor.py:161} INFO - Started process (PID=7496) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:37:42.411+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-03-09T04:37:42.413+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:42.412+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:37:42.456+0530] {processor.py:840} INFO - DAG(s) 'example_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-03-09T04:37:42.512+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:42.511+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:37:42.575+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:42.574+0530] {dag.py:3823} INFO - Setting next_dagrun for example_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:37:42.653+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.264 seconds

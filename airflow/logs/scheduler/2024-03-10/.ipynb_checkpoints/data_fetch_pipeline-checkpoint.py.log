@@ -1,0 +1,441 @@
+[2024-03-10T22:14:07.989+0530] {processor.py:161} INFO - Started process (PID=22692) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:14:07.992+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:14:07.995+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:14:07.994+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:14:08.017+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:14:08.033+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:14:08.032+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:14:08.055+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:14:08.055+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:14:08.104+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.122 seconds
+[2024-03-10T22:15:16.650+0530] {processor.py:161} INFO - Started process (PID=23561) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:15:16.652+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:15:16.654+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:15:16.653+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:15:16.665+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:15:16.856+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:15:16.855+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:15:16.874+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:15:16.873+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:15:16.942+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.296 seconds
+[2024-03-10T22:16:00.774+0530] {processor.py:161} INFO - Started process (PID=24111) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:00.776+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:16:00.777+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:00.776+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:00.785+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:00.795+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:00.794+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:16:00.810+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:00.809+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:16:00.840+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.070 seconds
+[2024-03-10T22:16:34.864+0530] {processor.py:161} INFO - Started process (PID=24910) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:34.867+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:16:34.880+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:34.879+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:34.916+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:16:35.476+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:35.476+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:16:35.540+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:16:35.539+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:16:36.278+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 1.441 seconds
+[2024-03-10T22:17:27.963+0530] {processor.py:161} INFO - Started process (PID=25609) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:17:27.965+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:17:27.966+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:17:27.966+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:17:27.974+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:17:27.983+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:17:27.983+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:17:28.000+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:17:27.999+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:17:28.033+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.073 seconds
+[2024-03-10T22:18:14.889+0530] {processor.py:161} INFO - Started process (PID=26596) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:18:14.891+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:18:14.892+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:18:14.891+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:18:14.899+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:18:15.044+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:18:15.043+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:18:15.063+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:18:15.062+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:18:15.106+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.222 seconds
+[2024-03-10T22:19:06.623+0530] {processor.py:161} INFO - Started process (PID=27292) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:19:06.625+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:19:06.626+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:19:06.625+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:19:06.638+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:19:06.653+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:19:06.653+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:19:06.678+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:19:06.677+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:19:06.724+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.104 seconds
+[2024-03-10T22:20:02.076+0530] {processor.py:161} INFO - Started process (PID=28363) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:02.078+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:20:02.079+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:02.078+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:02.087+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:02.212+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:02.211+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:20:02.235+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:02.235+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:20:02.263+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.191 seconds
+[2024-03-10T22:20:53.271+0530] {processor.py:161} INFO - Started process (PID=29390) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:53.273+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:20:53.275+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:53.274+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:53.284+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:20:53.293+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:53.293+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:20:53.320+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:20:53.319+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:20:53.353+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.086 seconds
+[2024-03-10T22:21:45.594+0530] {processor.py:161} INFO - Started process (PID=30047) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:21:45.596+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:21:45.597+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:21:45.597+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:21:45.604+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:21:45.741+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:21:45.740+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:21:45.754+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:21:45.754+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:21:45.796+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.206 seconds
+[2024-03-10T22:22:40.737+0530] {processor.py:161} INFO - Started process (PID=31107) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:22:40.738+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T22:22:40.739+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:22:40.739+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:22:40.745+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T22:22:40.752+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:22:40.752+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T22:22:40.765+0530] {logging_mixin.py:188} INFO - [2024-03-10T22:22:40.765+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T22:22:40.788+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.055 seconds
+[2024-03-10T23:14:42.809+0530] {processor.py:161} INFO - Started process (PID=2019) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:14:42.828+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:14:42.843+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:14:42.842+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:14:42.914+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:14:43.775+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:14:43.774+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:14:43.849+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:14:43.839+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:14:44.082+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 1.278 seconds
+[2024-03-10T23:15:51.943+0530] {processor.py:161} INFO - Started process (PID=2838) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:15:51.947+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:15:51.955+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:15:51.954+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:15:51.986+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:15:52.010+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:15:52.009+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:15:52.048+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:15:52.047+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:15:52.115+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.182 seconds
+[2024-03-10T23:16:33.139+0530] {processor.py:161} INFO - Started process (PID=3664) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:16:33.142+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:16:33.147+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:16:33.144+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:16:33.172+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:16:33.458+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:16:33.456+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:16:33.505+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:16:33.504+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:16:33.607+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.474 seconds
+[2024-03-10T23:17:24.937+0530] {processor.py:161} INFO - Started process (PID=4296) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:17:24.940+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:17:24.942+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:17:24.941+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:17:24.967+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:17:24.982+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:17:24.981+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:17:25.020+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:17:25.019+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:17:25.069+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.139 seconds
+[2024-03-10T23:18:33.056+0530] {processor.py:161} INFO - Started process (PID=5464) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:18:33.059+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:18:33.062+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:18:33.061+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:18:33.076+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:18:33.311+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:18:33.310+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:18:33.335+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:18:33.334+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:18:33.396+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.345 seconds
+[2024-03-10T23:19:10.276+0530] {processor.py:161} INFO - Started process (PID=5913) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:19:10.279+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:19:10.282+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:19:10.281+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:19:10.296+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:19:10.313+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:19:10.312+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:19:10.337+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:19:10.337+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:19:10.377+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.106 seconds
+[2024-03-10T23:20:15.780+0530] {processor.py:161} INFO - Started process (PID=7172) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:15.787+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:20:15.793+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:15.791+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:15.824+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:16.201+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:16.201+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:20:16.218+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:16.218+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:20:16.270+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.500 seconds
+[2024-03-10T23:20:52.136+0530] {processor.py:161} INFO - Started process (PID=7591) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:52.140+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:20:52.143+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:52.142+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:52.168+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:20:52.191+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:52.190+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:20:52.240+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:20:52.239+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:20:52.300+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.174 seconds
+[2024-03-10T23:21:31.232+0530] {processor.py:161} INFO - Started process (PID=8049) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:21:31.235+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:21:31.237+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:21:31.236+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:21:31.250+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:21:31.468+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:21:31.467+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:21:31.490+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:21:31.489+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:21:31.552+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.324 seconds
+[2024-03-10T23:22:09.500+0530] {processor.py:161} INFO - Started process (PID=8705) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:09.503+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:22:09.505+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:09.504+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:09.521+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:09.536+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:09.534+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:22:09.567+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:09.566+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:22:09.612+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.118 seconds
+[2024-03-10T23:22:47.680+0530] {processor.py:161} INFO - Started process (PID=9366) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:47.683+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:22:47.686+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:47.685+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:47.779+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:22:48.684+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:48.683+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:22:48.738+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:22:48.737+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:22:48.825+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 1.171 seconds
+[2024-03-10T23:23:28.411+0530] {processor.py:161} INFO - Started process (PID=9859) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:23:28.426+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:23:28.428+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:23:28.427+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:23:28.463+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:23:28.488+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:23:28.487+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:23:28.557+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:23:28.556+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:23:28.646+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.243 seconds
+[2024-03-10T23:24:04.961+0530] {processor.py:161} INFO - Started process (PID=10376) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:04.965+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:24:04.969+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:04.967+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:04.988+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:05.403+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:05.403+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:24:05.425+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:05.425+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:24:05.486+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.535 seconds
+[2024-03-10T23:24:44.047+0530] {processor.py:161} INFO - Started process (PID=11312) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:44.060+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:24:44.063+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:44.062+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:44.074+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:24:44.087+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:44.087+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:24:44.137+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:24:44.136+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:24:44.208+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.166 seconds
+[2024-03-10T23:25:20.981+0530] {processor.py:161} INFO - Started process (PID=11798) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:25:20.992+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:25:20.996+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:25:20.994+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:25:21.034+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:25:21.548+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:25:21.545+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:25:21.610+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:25:21.609+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:25:21.783+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.815 seconds
+[2024-03-10T23:26:00.756+0530] {processor.py:161} INFO - Started process (PID=12299) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:00.760+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:26:00.765+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:00.764+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:00.806+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:00.871+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:00.871+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:26:00.947+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:00.946+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:26:01.050+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.303 seconds
+[2024-03-10T23:26:42.748+0530] {processor.py:161} INFO - Started process (PID=13213) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:42.761+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:26:42.764+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:42.763+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:42.794+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:26:43.200+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:43.199+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:26:43.253+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:26:43.252+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:26:43.350+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.615 seconds
+[2024-03-10T23:27:21.140+0530] {processor.py:161} INFO - Started process (PID=13709) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:21.143+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:27:21.145+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:21.144+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:21.157+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:21.172+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:21.171+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:27:21.196+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:21.195+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:27:21.253+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.118 seconds
+[2024-03-10T23:27:57.165+0530] {processor.py:161} INFO - Started process (PID=14133) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:57.170+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:27:57.174+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:57.172+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:57.210+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:27:57.809+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:57.808+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:27:57.914+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:27:57.912+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:27:57.999+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.846 seconds
+[2024-03-10T23:28:36.632+0530] {processor.py:161} INFO - Started process (PID=15035) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:28:36.647+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:28:36.650+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:28:36.649+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:28:36.687+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:28:36.738+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:28:36.738+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:28:36.790+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:28:36.789+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:28:36.887+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.263 seconds
+[2024-03-10T23:29:18.848+0530] {processor.py:161} INFO - Started process (PID=15522) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:18.862+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:29:18.865+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:18.864+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:18.882+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:19.174+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:19.173+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:29:19.191+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:19.190+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:29:19.240+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.399 seconds
+[2024-03-10T23:29:57.966+0530] {processor.py:161} INFO - Started process (PID=16000) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:57.979+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:29:57.982+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:57.981+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:57.997+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:29:58.015+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:58.014+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:29:58.051+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:29:58.050+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:29:58.119+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.158 seconds
+[2024-03-10T23:30:38.371+0530] {processor.py:161} INFO - Started process (PID=16914) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:30:38.384+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:30:38.387+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:30:38.386+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:30:38.402+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:30:38.611+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:30:38.610+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:30:38.634+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:30:38.634+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:30:38.690+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.332 seconds
+[2024-03-10T23:31:17.487+0530] {processor.py:161} INFO - Started process (PID=17372) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:17.489+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:31:17.491+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:17.490+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:17.505+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:17.522+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:17.521+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:31:17.551+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:17.550+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:31:17.608+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.126 seconds
+[2024-03-10T23:31:54.526+0530] {processor.py:161} INFO - Started process (PID=17793) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:54.540+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:31:54.546+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:54.542+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:54.570+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:31:54.899+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:54.898+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:31:54.927+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:31:54.926+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:31:55.032+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.513 seconds
+[2024-03-10T23:32:31.174+0530] {processor.py:161} INFO - Started process (PID=18671) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:32:31.177+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:32:31.180+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:32:31.179+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:32:31.197+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:32:31.217+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:32:31.216+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:32:31.254+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:32:31.253+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:32:31.340+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.172 seconds
+[2024-03-10T23:33:05.976+0530] {processor.py:161} INFO - Started process (PID=19084) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:33:05.989+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:33:05.991+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:33:05.990+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:33:06.007+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:33:06.252+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:33:06.251+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:33:06.281+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:33:06.280+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:33:06.350+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.380 seconds
+[2024-03-10T23:34:09.199+0530] {processor.py:161} INFO - Started process (PID=19859) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:09.201+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:34:09.205+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:09.203+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:09.225+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:09.445+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:09.444+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:34:09.476+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:09.475+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:34:09.545+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.351 seconds
+[2024-03-10T23:34:45.289+0530] {processor.py:161} INFO - Started process (PID=20686) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:45.303+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:34:45.305+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:45.305+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:45.319+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:34:45.336+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:45.335+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:34:45.363+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:34:45.362+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:34:45.444+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.161 seconds
+[2024-03-10T23:35:23.221+0530] {processor.py:161} INFO - Started process (PID=21158) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:35:23.223+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:35:23.225+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:35:23.224+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:35:23.238+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:35:23.470+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:35:23.469+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:35:23.494+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:35:23.493+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:35:23.570+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.354 seconds
+[2024-03-10T23:36:02.264+0530] {processor.py:161} INFO - Started process (PID=21618) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:02.267+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:36:02.269+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:02.268+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:02.283+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:02.305+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:02.304+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:36:02.347+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:02.346+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:36:02.414+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.155 seconds
+[2024-03-10T23:36:37.867+0530] {processor.py:161} INFO - Started process (PID=22439) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:37.870+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:36:37.872+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:37.871+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:37.884+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:36:38.155+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:38.154+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:36:38.195+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:36:38.193+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:36:38.276+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.415 seconds
+[2024-03-10T23:37:17.176+0530] {processor.py:161} INFO - Started process (PID=22929) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:17.179+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:37:17.183+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:17.181+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:17.208+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:17.227+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:17.226+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:37:17.268+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:17.266+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:37:17.345+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.177 seconds
+[2024-03-10T23:37:54.314+0530] {processor.py:161} INFO - Started process (PID=23403) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:54.329+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:37:54.332+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:54.331+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:54.358+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:37:54.801+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:54.800+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:37:54.830+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:37:54.830+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:37:54.913+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.607 seconds
+[2024-03-10T23:38:34.455+0530] {processor.py:161} INFO - Started process (PID=24283) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:38:34.458+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:38:34.460+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:38:34.459+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:38:34.471+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:38:34.485+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:38:34.484+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:38:34.510+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:38:34.510+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:38:34.565+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.114 seconds
+[2024-03-10T23:39:15.084+0530] {processor.py:161} INFO - Started process (PID=24789) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:15.097+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:39:15.100+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:15.099+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:15.120+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:15.444+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:15.443+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:39:15.473+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:15.472+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:39:15.530+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.451 seconds
+[2024-03-10T23:39:54.024+0530] {processor.py:161} INFO - Started process (PID=25520) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:54.029+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:39:54.035+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:54.033+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:54.064+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:39:54.091+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:54.090+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:39:54.153+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:39:54.151+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:39:54.286+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.272 seconds
+[2024-03-10T23:40:32.076+0530] {processor.py:161} INFO - Started process (PID=26180) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:40:32.090+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:40:32.108+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:40:32.106+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:40:32.128+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:40:32.324+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:40:32.323+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:40:32.341+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:40:32.340+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:40:32.401+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.331 seconds
+[2024-03-10T23:41:08.428+0530] {processor.py:161} INFO - Started process (PID=26645) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:08.442+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:41:08.444+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:08.443+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:08.457+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:08.474+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:08.473+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:41:08.508+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:08.507+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:41:08.559+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.135 seconds
+[2024-03-10T23:41:43.797+0530] {processor.py:161} INFO - Started process (PID=27202) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:43.800+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:41:43.802+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:43.801+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:43.815+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:41:44.101+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:44.100+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:41:44.137+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:41:44.136+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:41:44.215+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.423 seconds
+[2024-03-10T23:42:22.618+0530] {processor.py:161} INFO - Started process (PID=27956) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:42:22.638+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:42:22.643+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:42:22.641+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:42:22.665+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:42:22.690+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:42:22.688+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:42:22.740+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:42:22.739+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:42:22.803+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.199 seconds
+[2024-03-10T23:43:00.328+0530] {processor.py:161} INFO - Started process (PID=28466) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:00.343+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:43:00.346+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:00.345+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:00.358+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:00.569+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:00.568+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:43:00.593+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:00.592+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:43:00.662+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.342 seconds
+[2024-03-10T23:43:36.320+0530] {processor.py:161} INFO - Started process (PID=29148) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:36.324+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:43:36.330+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:36.328+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:36.364+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:43:36.385+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:36.384+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:43:36.465+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:43:36.464+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:43:36.546+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.236 seconds
+[2024-03-10T23:44:45.710+0530] {processor.py:161} INFO - Started process (PID=30217) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:44:45.723+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:44:45.725+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:44:45.725+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:44:45.740+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:44:45.989+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:44:45.988+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:44:46.020+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:44:46.019+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:44:46.120+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.418 seconds
+[2024-03-10T23:45:23.178+0530] {processor.py:161} INFO - Started process (PID=30908) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:45:23.183+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:45:23.186+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:45:23.185+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:45:23.209+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:45:23.228+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:45:23.227+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:45:23.266+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:45:23.265+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:45:23.331+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.164 seconds
+[2024-03-10T23:45:59.814+0530] {processor.py:161} INFO - Started process (PID=31602) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:45:59.827+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:45:59.829+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:45:59.828+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:45:59.855+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:46:00.412+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:46:00.411+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:46:00.483+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:46:00.482+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:46:00.565+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.766 seconds
+[2024-03-10T23:46:38.195+0530] {processor.py:161} INFO - Started process (PID=32073) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:46:38.210+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:46:38.214+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:46:38.212+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:46:38.253+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:46:38.290+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:46:38.289+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:46:38.357+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:46:38.356+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:46:38.452+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.270 seconds
+[2024-03-10T23:47:19.517+0530] {processor.py:161} INFO - Started process (PID=32548) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:19.520+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:47:19.523+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:19.521+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:19.545+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:19.794+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:19.792+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:47:19.824+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:19.823+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:47:19.898+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.391 seconds
+[2024-03-10T23:47:59.178+0530] {processor.py:161} INFO - Started process (PID=33466) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:59.180+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:47:59.182+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:59.181+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:59.192+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:47:59.203+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:59.202+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:47:59.218+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:47:59.217+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:47:59.246+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.072 seconds
+[2024-03-10T23:48:55.575+0530] {processor.py:161} INFO - Started process (PID=34177) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:48:55.579+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:48:55.581+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:48:55.580+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:48:55.598+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:48:55.872+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:48:55.871+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:48:55.895+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:48:55.895+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:48:55.960+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.391 seconds
+[2024-03-10T23:49:49.329+0530] {processor.py:161} INFO - Started process (PID=35285) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:49:49.331+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:49:49.333+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:49:49.332+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:49:49.341+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:49:49.367+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:49:49.366+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:49:49.384+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:49:49.383+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:49:49.414+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.087 seconds
+[2024-03-10T23:50:40.427+0530] {processor.py:161} INFO - Started process (PID=36316) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:50:40.428+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py for tasks to queue
+[2024-03-10T23:50:40.429+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:50:40.429+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:50:40.437+0530] {processor.py:840} INFO - DAG(s) 'data_fetch_pipeline' retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py
+[2024-03-10T23:50:40.446+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:50:40.446+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T23:50:40.462+0530] {logging_mixin.py:188} INFO - [2024-03-10T23:50:40.462+0530] {dag.py:3823} INFO - Setting next_dagrun for data_fetch_pipeline to None, run_after=None
+[2024-03-10T23:50:40.491+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline-checkpoint.py took 0.067 seconds

@@ -1,0 +1,112 @@
+[2024-03-09T04:32:05.618+0530] {processor.py:161} INFO - Started process (PID=2406) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:32:05.619+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:32:05.621+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:32:05.620+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:32:05.643+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:32:05.641+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:32:05.644+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:32:05.680+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.068 seconds
+[2024-03-09T04:34:31.118+0530] {processor.py:161} INFO - Started process (PID=4472) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:34:31.123+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:34:31.126+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:34:31.125+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:34:31.134+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:34:31.132+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:34:31.136+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:34:31.227+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.119 seconds
+[2024-03-09T04:35:30.636+0530] {processor.py:161} INFO - Started process (PID=5567) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:35:30.640+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:35:30.644+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:30.642+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:35:30.657+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:30.655+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:35:30.659+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:35:30.697+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.071 seconds
+[2024-03-09T04:36:05.825+0530] {processor.py:161} INFO - Started process (PID=5961) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:05.835+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:36:05.843+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:05.842+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:05.865+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:05.861+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:36:05.867+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:06.025+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.222 seconds
+[2024-03-09T04:36:43.214+0530] {processor.py:161} INFO - Started process (PID=6815) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:43.216+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:36:43.219+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:43.218+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:43.226+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:43.224+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:36:43.227+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:36:43.274+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.067 seconds
+[2024-03-09T04:37:16.604+0530] {processor.py:161} INFO - Started process (PID=7204) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:16.618+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:37:16.621+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:16.620+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:16.627+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:16.626+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:37:16.629+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:16.680+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.081 seconds
+[2024-03-09T04:37:48.778+0530] {processor.py:161} INFO - Started process (PID=7607) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:48.781+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:37:48.783+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:48.782+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:48.790+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:48.788+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:37:48.790+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:37:48.838+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.066 seconds
+[2024-03-09T04:38:20.511+0530] {processor.py:161} INFO - Started process (PID=7971) to work on /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:38:20.515+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py for tasks to queue
+[2024-03-09T04:38:20.519+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:38:20.517+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:38:20.528+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:38:20.525+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-09T04:38:20.530+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py
+[2024-03-09T04:38:20.592+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/.ipynb_checkpoints/data_fetch_pipeline.py-checkpoint.py took 0.089 seconds

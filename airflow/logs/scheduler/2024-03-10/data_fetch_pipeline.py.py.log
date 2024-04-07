@@ -1,0 +1,126 @@
+[2024-03-10T15:36:26.369+0530] {processor.py:161} INFO - Started process (PID=6246) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:36:26.371+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:36:26.376+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:36:26.374+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:36:26.386+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:36:26.382+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:36:26.387+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:36:26.425+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.065 seconds
+[2024-03-10T15:37:22.943+0530] {processor.py:161} INFO - Started process (PID=7210) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:37:22.946+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:37:22.949+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:37:22.948+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:37:22.955+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:37:22.954+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:37:22.956+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:37:22.985+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.048 seconds
+[2024-03-10T15:38:15.417+0530] {processor.py:161} INFO - Started process (PID=8294) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:38:15.419+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:38:15.420+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:38:15.420+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:38:15.424+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:38:15.423+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:38:15.424+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:38:15.447+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.033 seconds
+[2024-03-10T15:39:04.100+0530] {processor.py:161} INFO - Started process (PID=8876) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:04.103+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:39:04.105+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:39:04.104+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:04.111+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:39:04.109+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:39:04.111+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:04.140+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.046 seconds
+[2024-03-10T15:39:53.362+0530] {processor.py:161} INFO - Started process (PID=9904) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:53.366+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:39:53.372+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:39:53.369+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:53.387+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:39:53.385+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:39:53.388+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:39:53.433+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.080 seconds
+[2024-03-10T15:40:24.247+0530] {processor.py:161} INFO - Started process (PID=10300) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:24.251+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:40:24.255+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:40:24.254+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:24.261+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:40:24.260+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:40:24.262+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:24.303+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.062 seconds
+[2024-03-10T15:40:58.860+0530] {processor.py:161} INFO - Started process (PID=10795) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:58.862+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:40:58.865+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:40:58.863+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:58.870+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:40:58.869+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:40:58.871+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:40:58.905+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.050 seconds
+[2024-03-10T15:41:53.294+0530] {processor.py:161} INFO - Started process (PID=11943) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:41:53.297+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:41:53.299+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:41:53.298+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:41:53.304+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:41:53.302+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:41:53.305+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:41:53.335+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.046 seconds
+[2024-03-10T15:42:40.600+0530] {processor.py:161} INFO - Started process (PID=12612) to work on /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:42:40.603+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/data_fetch_pipeline.py.py for tasks to queue
+[2024-03-10T15:42:40.606+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:42:40.605+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:42:40.613+0530] {logging_mixin.py:188} INFO - [2024-03-10T15:42:40.610+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/data_fetch_pipeline.py.py", line 283, in <module>
+    "execution_count": null,
+NameError: name 'null' is not defined
+[2024-03-10T15:42:40.613+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/data_fetch_pipeline.py.py
+[2024-03-10T15:42:40.659+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/data_fetch_pipeline.py.py took 0.070 seconds

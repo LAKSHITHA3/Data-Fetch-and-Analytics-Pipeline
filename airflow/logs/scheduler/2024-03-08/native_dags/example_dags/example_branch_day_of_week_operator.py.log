@@ -1,0 +1,21 @@
+[2024-03-09T04:35:28.563+0530] {processor.py:161} INFO - Started process (PID=5535) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:35:28.565+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-03-09T04:35:28.566+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:28.566+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:35:28.584+0530] {processor.py:840} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:35:28.627+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:28.626+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:35:28.668+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:35:28.667+0530] {dag.py:3823} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:35:28.723+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.169 seconds
+[2024-03-09T04:36:40.424+0530] {processor.py:161} INFO - Started process (PID=6689) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:36:40.434+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-03-09T04:36:40.438+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:40.436+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:36:40.474+0530] {processor.py:840} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:36:40.544+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:40.543+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:36:40.660+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:36:40.659+0530] {dag.py:3823} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:36:40.758+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.343 seconds
+[2024-03-09T04:37:46.422+0530] {processor.py:161} INFO - Started process (PID=7555) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:37:46.430+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-03-09T04:37:46.434+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:46.433+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:37:46.454+0530] {processor.py:840} INFO - DAG(s) 'example_weekday_branch_operator' retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-03-09T04:37:46.514+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:46.514+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-09T04:37:46.580+0530] {logging_mixin.py:188} INFO - [2024-03-09T04:37:46.579+0530] {dag.py:3823} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-03-07 00:00:00+00:00, run_after=2024-03-08 00:00:00+00:00
+[2024-03-09T04:37:46.654+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.239 seconds

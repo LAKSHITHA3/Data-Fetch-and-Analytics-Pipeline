@@ -1,0 +1,558 @@
+[2024-03-10T17:26:12.795+0530] {processor.py:161} INFO - Started process (PID=12584) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:12.796+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:26:12.798+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:26:12.797+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:12.804+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:26:12.802+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/test.py", line 161
+    Users(/saigowtham.t/Downloads/airflow_workspace/data_page.html)
+          ^
+SyntaxError: invalid syntax
+[2024-03-10T17:26:12.805+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:12.837+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.045 seconds
+[2024-03-10T17:26:48.899+0530] {processor.py:161} INFO - Started process (PID=13512) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:48.904+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:26:48.907+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:26:48.906+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:48.921+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:26:48.916+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/test.py", line 161
+    Users(/saigowtham.t/Downloads/airflow_workspace/data_page.html)
+          ^
+SyntaxError: invalid syntax
+[2024-03-10T17:26:48.922+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:26:48.961+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.069 seconds
+[2024-03-10T17:27:42.784+0530] {processor.py:161} INFO - Started process (PID=14176) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:27:42.785+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:27:42.787+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:27:42.786+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:27:42.792+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:27:42.791+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/test.py", line 161
+    Users(/saigowtham.t/Downloads/airflow_workspace/data_page.html)
+          ^
+SyntaxError: invalid syntax
+[2024-03-10T17:27:42.792+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:27:42.816+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.035 seconds
+[2024-03-10T17:28:35.681+0530] {processor.py:161} INFO - Started process (PID=15321) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:28:35.695+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:28:35.697+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:28:35.696+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:28:35.708+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:28:35.706+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/test.py", line 161
+    Users(/saigowtham.t/Downloads/airflow_workspace/data_page.html)
+          ^
+SyntaxError: invalid syntax
+[2024-03-10T17:28:35.708+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:28:35.745+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.069 seconds
+[2024-03-10T17:29:12.817+0530] {processor.py:161} INFO - Started process (PID=15728) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:12.820+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:29:12.821+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:12.821+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:12.827+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:12.825+0530] {dagbag.py:348} ERROR - Failed to import: /home/lucky/airflow/dags/test.py
+Traceback (most recent call last):
+  File "/home/lucky/.local/lib/python3.10/site-packages/airflow/models/dagbag.py", line 344, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/lucky/airflow/dags/test.py", line 161
+    Users(/saigowtham.t/Downloads/airflow_workspace/data_page.html)
+          ^
+SyntaxError: invalid syntax
+[2024-03-10T17:29:12.827+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:12.861+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.048 seconds
+[2024-03-10T17:29:49.406+0530] {processor.py:161} INFO - Started process (PID=16170) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:49.408+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:29:49.410+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.409+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:49.429+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:29:49.658+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.656+0530] {override.py:1769} INFO - Created Permission View: can delete on DAG:noaa_data_pipeline
+[2024-03-10T17:29:49.683+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.682+0530] {override.py:1769} INFO - Created Permission View: can read on DAG:noaa_data_pipeline
+[2024-03-10T17:29:49.704+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.703+0530] {override.py:1769} INFO - Created Permission View: can edit on DAG:noaa_data_pipeline
+[2024-03-10T17:29:49.705+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.705+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:29:49.730+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.730+0530] {dag.py:3058} INFO - Creating ORM DAG for noaa_data_pipeline
+[2024-03-10T17:29:49.731+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:29:49.731+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:29:49.786+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.386 seconds
+[2024-03-10T17:30:48.408+0530] {processor.py:161} INFO - Started process (PID=17359) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:30:48.413+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:30:48.415+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:30:48.414+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:30:48.444+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:30:48.478+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:30:48.477+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:30:48.498+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:30:48.498+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:30:48.554+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.150 seconds
+[2024-03-10T17:31:40.906+0530] {processor.py:161} INFO - Started process (PID=18001) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:31:40.908+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:31:40.910+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:31:40.909+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:31:40.924+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:31:41.111+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:31:41.110+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:31:41.125+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:31:41.125+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:31:41.163+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.261 seconds
+[2024-03-10T17:32:34.414+0530] {processor.py:161} INFO - Started process (PID=19109) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:32:34.427+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:32:34.429+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:32:34.428+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:32:34.443+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:32:34.644+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:32:34.643+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:32:34.670+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:32:34.670+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:32:34.726+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.316 seconds
+[2024-03-10T17:33:29.338+0530] {processor.py:161} INFO - Started process (PID=19751) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:33:29.340+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:33:29.343+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:33:29.342+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:33:29.361+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:33:29.567+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:33:29.566+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:33:29.589+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:33:29.588+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:33:30.218+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.883 seconds
+[2024-03-10T17:34:27.131+0530] {processor.py:161} INFO - Started process (PID=20939) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:34:27.143+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:34:27.145+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:34:27.144+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:34:27.155+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:34:27.306+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:34:27.305+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:34:27.319+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:34:27.319+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:34:27.363+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.235 seconds
+[2024-03-10T17:35:24.173+0530] {processor.py:161} INFO - Started process (PID=22064) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:35:24.185+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:35:24.187+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:35:24.186+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:35:24.196+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:35:24.353+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:35:24.353+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:35:24.368+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:35:24.368+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:35:24.403+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.234 seconds
+[2024-03-10T17:36:23.896+0530] {processor.py:161} INFO - Started process (PID=22811) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:23.910+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:36:23.913+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:23.912+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:23.932+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:24.084+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:24.083+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:36:24.100+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:24.099+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:36:24.156+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.268 seconds
+[2024-03-10T17:36:55.600+0530] {processor.py:161} INFO - Started process (PID=23327) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:55.602+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:36:55.603+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:55.603+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:55.613+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:36:55.745+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:55.745+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:36:55.759+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:36:55.759+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:36:55.799+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.203 seconds
+[2024-03-10T17:37:55.284+0530] {processor.py:161} INFO - Started process (PID=24347) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:37:55.296+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:37:55.297+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:37:55.297+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:37:55.307+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:37:55.329+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:37:55.328+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:37:55.351+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:37:55.351+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:37:55.385+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.106 seconds
+[2024-03-10T17:38:47.960+0530] {processor.py:161} INFO - Started process (PID=25453) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:38:47.961+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:38:47.963+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:38:47.962+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:38:47.977+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:38:48.206+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:38:48.205+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:38:48.225+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:38:48.224+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:38:48.280+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.323 seconds
+[2024-03-10T17:39:42.734+0530] {processor.py:161} INFO - Started process (PID=26172) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:39:42.736+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:39:42.737+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:39:42.737+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:39:42.745+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:39:42.827+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:39:42.826+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:39:42.836+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:39:42.836+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:39:42.862+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.131 seconds
+[2024-03-10T17:40:27.509+0530] {processor.py:161} INFO - Started process (PID=27122) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:40:27.511+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:40:27.513+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:40:27.512+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:40:27.528+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:40:27.685+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:40:27.684+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:40:27.704+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:40:27.703+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:40:27.738+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.235 seconds
+[2024-03-10T17:41:11.292+0530] {processor.py:161} INFO - Started process (PID=27724) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:11.294+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:41:11.295+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:11.295+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:11.304+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:11.423+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:11.423+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:41:11.438+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:11.438+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:41:11.468+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.179 seconds
+[2024-03-10T17:41:55.124+0530] {processor.py:161} INFO - Started process (PID=28654) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:55.133+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:41:55.134+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:55.133+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:55.142+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:41:55.248+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:55.248+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:41:55.259+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:41:55.259+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:41:55.286+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.164 seconds
+[2024-03-10T17:42:38.225+0530] {processor.py:161} INFO - Started process (PID=29242) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:42:38.227+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:42:38.228+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:42:38.228+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:42:38.239+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:42:38.405+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:42:38.405+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:42:38.421+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:42:38.420+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:42:38.456+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.235 seconds
+[2024-03-10T17:43:20.740+0530] {processor.py:161} INFO - Started process (PID=30134) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:43:20.752+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:43:20.753+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:43:20.753+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:43:20.763+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:43:20.866+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:43:20.866+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:43:20.878+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:43:20.878+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:43:20.906+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.169 seconds
+[2024-03-10T17:44:06.471+0530] {processor.py:161} INFO - Started process (PID=30782) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:06.473+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:44:06.474+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:06.474+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:06.484+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:06.633+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:06.633+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:44:06.644+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:06.644+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:44:06.674+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.207 seconds
+[2024-03-10T17:44:54.978+0530] {processor.py:161} INFO - Started process (PID=31789) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:54.979+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:44:54.981+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:54.980+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:54.996+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:44:55.166+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:55.166+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:44:55.181+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:44:55.180+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:44:55.218+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.245 seconds
+[2024-03-10T17:45:47.759+0530] {processor.py:161} INFO - Started process (PID=32420) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T17:45:47.761+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T17:45:47.763+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:45:47.762+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:45:47.773+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T17:45:47.949+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:45:47.949+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T17:45:47.963+0530] {logging_mixin.py:188} INFO - [2024-03-10T17:45:47.963+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T17:45:48.001+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.247 seconds
+[2024-03-10T20:39:49.983+0530] {processor.py:161} INFO - Started process (PID=1893) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:39:49.984+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:39:49.985+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:39:49.985+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:39:50.003+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:39:50.120+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:39:50.119+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:39:50.130+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:39:50.129+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:39:50.155+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.175 seconds
+[2024-03-10T20:40:47.478+0530] {processor.py:161} INFO - Started process (PID=3024) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:40:47.479+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:40:47.480+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:40:47.480+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:40:47.489+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:40:47.604+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:40:47.604+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:40:47.613+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:40:47.613+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:40:47.638+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.162 seconds
+[2024-03-10T20:41:32.246+0530] {processor.py:161} INFO - Started process (PID=3566) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:41:32.247+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:41:32.248+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:41:32.248+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:41:32.256+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:41:32.388+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:41:32.388+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:41:32.401+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:41:32.401+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:41:32.430+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.187 seconds
+[2024-03-10T20:42:17.793+0530] {processor.py:161} INFO - Started process (PID=4555) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:42:17.795+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:42:17.796+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:42:17.796+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:42:17.805+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:42:17.958+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:42:17.956+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:42:17.990+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:42:17.990+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:42:18.078+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.287 seconds
+[2024-03-10T20:43:03.704+0530] {processor.py:161} INFO - Started process (PID=5131) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:03.705+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:43:03.706+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:03.706+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:03.713+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:03.817+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:03.816+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:43:03.830+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:03.829+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:43:03.865+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.165 seconds
+[2024-03-10T20:43:51.255+0530] {processor.py:161} INFO - Started process (PID=6097) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:51.257+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:43:51.258+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:51.258+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:51.269+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:43:51.423+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:51.423+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:43:51.444+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:43:51.444+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:43:51.487+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.235 seconds
+[2024-03-10T20:44:40.119+0530] {processor.py:161} INFO - Started process (PID=6744) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:44:40.121+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:44:40.123+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:44:40.122+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:44:40.136+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:44:40.282+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:44:40.281+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:44:40.300+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:44:40.300+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:44:40.351+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.236 seconds
+[2024-03-10T20:45:29.598+0530] {processor.py:161} INFO - Started process (PID=7736) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:45:29.600+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:45:29.601+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:45:29.601+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:45:29.612+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:45:29.779+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:45:29.779+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:45:29.795+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:45:29.794+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:45:29.836+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.240 seconds
+[2024-03-10T20:46:20.519+0530] {processor.py:161} INFO - Started process (PID=8413) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:46:20.522+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:46:20.524+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:46:20.523+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:46:20.538+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:46:20.959+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:46:20.959+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:46:20.998+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:46:20.998+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:46:21.081+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.566 seconds
+[2024-03-10T20:47:08.692+0530] {processor.py:161} INFO - Started process (PID=9411) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:08.694+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:47:08.697+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:08.696+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:08.710+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:08.868+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:08.867+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:47:08.882+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:08.882+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:47:08.930+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.244 seconds
+[2024-03-10T20:47:55.010+0530] {processor.py:161} INFO - Started process (PID=9967) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:55.012+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:47:55.013+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:55.013+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:55.022+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:47:55.131+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:55.131+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:47:55.141+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:47:55.140+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:47:55.165+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.158 seconds
+[2024-03-10T20:48:23.937+0530] {processor.py:161} INFO - Started process (PID=10695) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:48:23.939+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:48:23.940+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:48:23.939+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:48:23.957+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:48:23.963+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:48:23.963+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:48:23.976+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:48:23.976+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:48:24.000+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.066 seconds
+[2024-03-10T20:49:20.717+0530] {processor.py:161} INFO - Started process (PID=11537) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:49:20.718+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:49:20.720+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:49:20.719+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:49:20.731+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:49:20.868+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:49:20.867+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:49:20.881+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:49:20.880+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:49:20.911+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.199 seconds
+[2024-03-10T20:50:06.800+0530] {processor.py:161} INFO - Started process (PID=12560) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:06.802+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:50:06.804+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:06.803+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:06.820+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:06.985+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:06.985+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:50:07.006+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:07.006+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:50:07.048+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.252 seconds
+[2024-03-10T20:50:52.346+0530] {processor.py:161} INFO - Started process (PID=13241) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:52.348+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:50:52.354+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:52.353+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:52.369+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:50:52.469+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:52.469+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:50:52.480+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:50:52.480+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:50:52.509+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.165 seconds
+[2024-03-10T20:51:41.606+0530] {processor.py:161} INFO - Started process (PID=14271) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:51:41.609+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:51:41.611+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:51:41.610+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:51:41.629+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:51:41.877+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:51:41.877+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:51:41.901+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:51:41.900+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:51:41.949+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.350 seconds
+[2024-03-10T20:52:33.654+0530] {processor.py:161} INFO - Started process (PID=15375) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T20:52:33.656+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T20:52:33.657+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:52:33.656+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:52:33.667+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T20:52:33.790+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:52:33.790+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T20:52:33.802+0530] {logging_mixin.py:188} INFO - [2024-03-10T20:52:33.801+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T20:52:33.832+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.181 seconds
+[2024-03-10T21:05:11.131+0530] {processor.py:161} INFO - Started process (PID=27743) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:05:11.134+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:05:11.135+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:05:11.134+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:05:11.158+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:05:11.307+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:05:11.307+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:05:11.319+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:05:11.319+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:05:11.347+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.221 seconds
+[2024-03-10T21:06:06.519+0530] {processor.py:161} INFO - Started process (PID=28875) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:06.520+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:06:06.521+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:06.521+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:06.530+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:06.637+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:06.636+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:06:06.648+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:06.647+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:06:06.675+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.159 seconds
+[2024-03-10T21:06:56.827+0530] {processor.py:161} INFO - Started process (PID=29501) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:56.829+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:06:56.830+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:56.830+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:56.842+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:06:57.015+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:57.015+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:06:57.040+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:06:57.040+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:06:57.098+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.275 seconds
+[2024-03-10T21:07:50.293+0530] {processor.py:161} INFO - Started process (PID=30614) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:07:50.294+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:07:50.295+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:07:50.295+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:07:50.303+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:07:50.412+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:07:50.412+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:07:50.423+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:07:50.422+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:07:50.456+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.166 seconds
+[2024-03-10T21:08:34.221+0530] {processor.py:161} INFO - Started process (PID=31191) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:08:34.224+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:08:34.226+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:08:34.225+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:08:34.236+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:08:34.394+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:08:34.393+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:08:34.411+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:08:34.411+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:08:34.446+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.229 seconds
+[2024-03-10T21:09:21.327+0530] {processor.py:161} INFO - Started process (PID=32192) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:09:21.328+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:09:21.332+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:09:21.331+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:09:21.343+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:09:21.534+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:09:21.533+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:09:21.560+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:09:21.560+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:09:21.630+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.307 seconds
+[2024-03-10T21:10:12.621+0530] {processor.py:161} INFO - Started process (PID=32847) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:10:12.624+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:10:12.625+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:10:12.624+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:10:12.635+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:10:12.814+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:10:12.813+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:10:12.831+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:10:12.830+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:10:12.870+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.254 seconds
+[2024-03-10T21:11:01.030+0530] {processor.py:161} INFO - Started process (PID=33915) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:01.032+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:11:01.034+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:01.033+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:01.050+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:01.212+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:01.211+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:11:01.224+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:01.224+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:11:01.259+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.234 seconds
+[2024-03-10T21:11:48.802+0530] {processor.py:161} INFO - Started process (PID=34489) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:48.805+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:11:48.806+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:48.806+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:48.817+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:11:49.035+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:49.034+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:11:49.059+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:11:49.059+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:11:49.116+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.317 seconds
+[2024-03-10T21:12:39.911+0530] {processor.py:161} INFO - Started process (PID=35572) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:12:39.913+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:12:39.914+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:12:39.914+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:12:39.925+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:12:40.035+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:12:40.035+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:12:40.049+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:12:40.049+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:12:40.090+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.184 seconds
+[2024-03-10T21:13:29.567+0530] {processor.py:161} INFO - Started process (PID=36608) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:13:29.569+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:13:29.570+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:13:29.570+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:13:29.580+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:13:29.673+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:13:29.672+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:13:29.683+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:13:29.683+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:13:29.708+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.144 seconds
+[2024-03-10T21:14:16.633+0530] {processor.py:161} INFO - Started process (PID=37185) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:14:16.634+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:14:16.635+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:14:16.635+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:14:16.641+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:14:16.727+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:14:16.727+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:14:16.738+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:14:16.737+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:14:16.761+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.131 seconds
+[2024-03-10T21:15:02.197+0530] {processor.py:161} INFO - Started process (PID=38201) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:02.198+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:15:02.199+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:02.199+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:02.209+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:02.350+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:02.350+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:15:02.363+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:02.363+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:15:02.390+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.196 seconds
+[2024-03-10T21:15:42.266+0530] {processor.py:161} INFO - Started process (PID=38711) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:42.268+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:15:42.270+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:42.269+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:42.283+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:15:42.423+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:42.423+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:15:42.439+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:15:42.438+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:15:42.469+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.207 seconds
+[2024-03-10T21:16:31.340+0530] {processor.py:161} INFO - Started process (PID=39771) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:16:31.343+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:16:31.345+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:16:31.344+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:16:31.361+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:16:31.529+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:16:31.528+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:16:31.548+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:16:31.547+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:16:31.591+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.255 seconds
+[2024-03-10T21:17:18.463+0530] {processor.py:161} INFO - Started process (PID=40402) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:17:18.475+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:17:18.476+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:17:18.476+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:17:18.484+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:17:18.605+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:17:18.605+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:17:18.617+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:17:18.616+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:17:18.648+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.187 seconds
+[2024-03-10T21:18:00.464+0530] {processor.py:161} INFO - Started process (PID=41317) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:00.466+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:18:00.467+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:00.467+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:00.477+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:00.641+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:00.640+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:18:00.660+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:00.659+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:18:00.703+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.242 seconds
+[2024-03-10T21:18:46.077+0530] {processor.py:161} INFO - Started process (PID=41935) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:46.079+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:18:46.080+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:46.080+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:46.090+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:18:46.209+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:46.208+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:18:46.223+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:18:46.223+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:18:46.254+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.180 seconds
+[2024-03-10T21:19:31.658+0530] {processor.py:161} INFO - Started process (PID=42886) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:19:31.670+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:19:31.672+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:19:31.671+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:19:31.690+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:19:31.859+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:19:31.859+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:19:31.870+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:19:31.870+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:19:31.902+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.248 seconds
+[2024-03-10T21:20:16.910+0530] {processor.py:161} INFO - Started process (PID=43527) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:20:16.912+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:20:16.914+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:20:16.913+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:20:16.923+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:20:17.049+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:20:17.049+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:20:17.066+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:20:17.065+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:20:17.099+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.193 seconds
+[2024-03-10T21:21:03.880+0530] {processor.py:161} INFO - Started process (PID=44521) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:03.883+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:21:03.885+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:03.884+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:03.902+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:04.228+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:04.218+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:21:04.279+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:04.278+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:21:04.384+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.518 seconds
+[2024-03-10T21:21:54.714+0530] {processor.py:161} INFO - Started process (PID=45168) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:54.716+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:21:54.717+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:54.717+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:54.727+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:21:54.843+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:54.842+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:21:54.857+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:21:54.857+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:21:54.886+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.177 seconds
+[2024-03-10T21:22:50.169+0530] {processor.py:161} INFO - Started process (PID=46318) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:22:50.171+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:22:50.172+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:22:50.172+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:22:50.184+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:22:50.368+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:22:50.367+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:22:50.380+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:22:50.380+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:22:50.422+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.257 seconds
+[2024-03-10T21:23:38.260+0530] {processor.py:161} INFO - Started process (PID=47106) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:23:38.264+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:23:38.266+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:23:38.266+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:23:38.287+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:23:38.463+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:23:38.463+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:23:38.480+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:23:38.480+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:23:38.523+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.268 seconds
+[2024-03-10T21:24:25.212+0530] {processor.py:161} INFO - Started process (PID=47941) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:24:25.213+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:24:25.215+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:24:25.214+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:24:25.224+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:24:25.332+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:24:25.331+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:24:25.344+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:24:25.344+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:24:25.370+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.163 seconds
+[2024-03-10T21:25:14.096+0530] {processor.py:161} INFO - Started process (PID=48983) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:25:14.098+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:25:14.100+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:25:14.099+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:25:14.111+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:25:14.291+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:25:14.290+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:25:14.307+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:25:14.307+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:25:14.342+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.250 seconds
+[2024-03-10T21:26:03.767+0530] {processor.py:161} INFO - Started process (PID=49593) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:03.769+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:26:03.770+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:03.769+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:03.777+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:03.868+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:03.868+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:26:03.882+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:03.882+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:26:03.919+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.154 seconds
+[2024-03-10T21:26:52.660+0530] {processor.py:161} INFO - Started process (PID=50651) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:52.662+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:26:52.663+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:52.663+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:52.674+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:26:52.846+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:52.845+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:26:52.861+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:26:52.860+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:26:52.892+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.237 seconds
+[2024-03-10T21:27:40.418+0530] {processor.py:161} INFO - Started process (PID=51276) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:27:40.420+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:27:40.421+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:27:40.420+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:27:40.434+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:27:40.686+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:27:40.685+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:27:40.704+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:27:40.703+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:27:40.739+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.324 seconds
+[2024-03-10T21:28:28.296+0530] {processor.py:161} INFO - Started process (PID=52272) to work on /home/lucky/airflow/dags/test.py
+[2024-03-10T21:28:28.308+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/test.py for tasks to queue
+[2024-03-10T21:28:28.309+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:28:28.308+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:28:28.318+0530] {processor.py:840} INFO - DAG(s) 'noaa_data_pipeline' retrieved from /home/lucky/airflow/dags/test.py
+[2024-03-10T21:28:28.438+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:28:28.437+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-03-10T21:28:28.449+0530] {logging_mixin.py:188} INFO - [2024-03-10T21:28:28.449+0530] {dag.py:3823} INFO - Setting next_dagrun for noaa_data_pipeline to None, run_after=None
+[2024-03-10T21:28:28.480+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/test.py took 0.187 seconds

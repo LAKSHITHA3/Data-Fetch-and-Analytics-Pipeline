@@ -1,0 +1,342 @@
+[2024-04-01T21:41:31.558+0530] {processor.py:161} INFO - Started process (PID=17037) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:41:31.561+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:41:31.564+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:41:31.563+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:41:33.808+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:41:33.807+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:41:34.811+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:41:34.811+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:41:34.887+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:41:35.623+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:41:35.622+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:41:35.769+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:41:35.768+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:41:36.265+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 4.719 seconds
+[2024-04-01T21:42:46.529+0530] {processor.py:161} INFO - Started process (PID=18236) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:42:46.532+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:42:46.533+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:42:46.533+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:42:48.751+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:42:48.750+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:42:49.291+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:42:49.290+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:42:49.314+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:42:49.353+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:42:49.352+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:42:49.851+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:42:49.850+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:42:49.910+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 3.386 seconds
+[2024-04-01T21:43:28.076+0530] {processor.py:161} INFO - Started process (PID=18699) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:43:28.082+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:43:28.084+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:43:28.083+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:43:29.892+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:43:29.891+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:43:30.489+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:43:30.488+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:43:30.515+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:43:30.548+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:43:30.547+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:43:30.600+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:43:30.599+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:43:30.667+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.599 seconds
+[2024-04-01T21:44:10.692+0530] {processor.py:161} INFO - Started process (PID=19534) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:10.694+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:44:10.695+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:10.695+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:11.848+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:11.848+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:44:12.434+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:12.433+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:44:12.472+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:12.752+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:12.752+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:44:12.804+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:12.804+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:44:12.843+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.155 seconds
+[2024-04-01T21:44:17.644+0530] {processor.py:161} INFO - Started process (PID=19610) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:17.648+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:44:17.650+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:17.649+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:19.014+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:19.014+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:44:19.345+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:19.345+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:44:19.360+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:44:19.383+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:19.382+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:44:19.418+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:44:19.417+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:44:19.448+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.810 seconds
+[2024-04-01T21:45:10.759+0530] {processor.py:161} INFO - Started process (PID=20292) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:45:10.765+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:45:10.766+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:45:10.766+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:45:12.057+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:45:12.056+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:45:12.380+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:45:12.379+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:45:12.393+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:45:12.434+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:45:12.433+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:45:12.647+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:45:12.647+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:45:12.673+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.918 seconds
+[2024-04-01T21:58:01.330+0530] {processor.py:161} INFO - Started process (PID=31541) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:58:01.333+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:58:01.336+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:58:01.336+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:58:02.550+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:58:02.549+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:58:03.098+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:58:03.097+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:58:03.142+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:58:03.194+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:58:03.194+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:58:03.257+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:58:03.257+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:58:03.308+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.983 seconds
+[2024-04-01T21:59:05.222+0530] {processor.py:161} INFO - Started process (PID=32586) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:59:05.224+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T21:59:05.225+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:59:05.225+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:59:05.942+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:59:05.942+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T21:59:06.150+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:59:06.150+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T21:59:06.162+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T21:59:06.182+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:59:06.182+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T21:59:06.203+0530] {logging_mixin.py:188} INFO - [2024-04-01T21:59:06.203+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T21:59:06.225+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.006 seconds
+[2024-04-01T22:00:07.207+0530] {processor.py:161} INFO - Started process (PID=33345) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:00:07.210+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:00:07.211+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:00:07.211+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:00:09.115+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:00:09.114+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:00:09.579+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:00:09.579+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:00:09.612+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:00:09.678+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:00:09.677+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:00:10.040+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:00:10.040+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:00:10.085+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.883 seconds
+[2024-04-01T22:01:04.069+0530] {processor.py:161} INFO - Started process (PID=34324) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:01:04.072+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:01:04.073+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:01:04.072+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:01:05.003+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:01:05.002+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:01:05.288+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:01:05.287+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:01:05.300+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:01:05.314+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:01:05.314+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:01:05.489+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:01:05.489+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:01:05.520+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.455 seconds
+[2024-04-01T22:02:01.417+0530] {processor.py:161} INFO - Started process (PID=35350) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:01.420+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:02:01.423+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:01.422+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:02.603+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:02.603+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:02:02.923+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:02.922+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:02:02.939+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:02.960+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:02.959+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:02:03.008+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:03.007+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:02:03.198+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.786 seconds
+[2024-04-01T22:02:36.819+0530] {processor.py:161} INFO - Started process (PID=35782) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:36.822+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:02:36.832+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:36.832+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:38.235+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:38.235+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:02:38.567+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:38.566+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:02:38.596+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:02:38.617+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:38.617+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:02:38.826+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:02:38.825+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:02:38.853+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.041 seconds
+[2024-04-01T22:03:42.269+0530] {processor.py:161} INFO - Started process (PID=36853) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:03:42.271+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:03:42.273+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:03:42.272+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:03:43.080+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:03:43.079+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:03:43.320+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:03:43.320+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:03:43.333+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:03:43.349+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:03:43.349+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:03:43.524+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:03:43.524+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:03:43.557+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.293 seconds
+[2024-04-01T22:04:18.219+0530] {processor.py:161} INFO - Started process (PID=37270) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:18.220+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:04:18.222+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:18.221+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:19.522+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:19.520+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:04:20.168+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:20.166+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:04:20.197+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:20.234+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:20.233+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:04:20.281+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:20.280+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:04:20.324+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.110 seconds
+[2024-04-01T22:04:54.015+0530] {processor.py:161} INFO - Started process (PID=37687) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:54.017+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:04:54.018+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:54.018+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:55.046+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:55.045+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:04:55.802+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:55.801+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:04:55.827+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:04:55.861+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:55.861+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:04:55.911+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:04:55.911+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:04:55.949+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.939 seconds
+[2024-04-01T22:06:01.610+0530] {processor.py:161} INFO - Started process (PID=38793) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:01.613+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:06:01.616+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:01.615+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:02.777+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:02.776+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:06:03.615+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:03.614+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:06:03.637+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:03.675+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:03.674+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:06:03.729+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:03.728+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:06:03.783+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.177 seconds
+[2024-04-01T22:06:41.010+0530] {processor.py:161} INFO - Started process (PID=39242) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:41.027+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:06:41.036+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:41.035+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:42.255+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:42.254+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:06:42.569+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:42.569+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:06:42.581+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:06:42.783+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:42.783+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:06:42.809+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:06:42.808+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:06:42.858+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.857 seconds
+[2024-04-01T22:07:19.468+0530] {processor.py:161} INFO - Started process (PID=40012) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:07:19.486+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:07:19.507+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:07:19.489+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:07:21.714+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:07:21.703+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:07:23.409+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:07:23.409+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:07:23.455+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:07:23.515+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:07:23.515+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:07:23.636+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:07:23.636+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:07:23.777+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 4.318 seconds
+[2024-04-01T22:08:03.387+0530] {processor.py:161} INFO - Started process (PID=40526) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:03.388+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:08:03.390+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:03.389+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:04.945+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:04.942+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:08:05.735+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:05.734+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:08:05.781+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:05.837+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:05.837+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:08:05.914+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:05.913+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:08:06.006+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 2.623 seconds
+[2024-04-01T22:08:49.371+0530] {processor.py:161} INFO - Started process (PID=41061) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:49.398+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:08:49.399+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:49.399+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:51.664+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:51.663+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:08:53.157+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:53.157+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:08:53.199+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:08:53.237+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:53.236+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:08:53.277+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:08:53.277+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:08:53.396+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 4.030 seconds
+[2024-04-01T22:09:33.694+0530] {processor.py:161} INFO - Started process (PID=41844) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:09:33.696+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:09:33.698+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:09:33.698+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:09:35.716+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:09:35.708+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:09:37.638+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:09:37.637+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:09:37.679+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:09:37.766+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:09:37.766+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:09:37.858+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:09:37.858+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:09:37.933+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 4.243 seconds
+[2024-04-01T22:10:20.524+0530] {processor.py:161} INFO - Started process (PID=42358) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:10:20.540+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:10:20.543+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:10:20.541+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:10:22.620+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:10:22.620+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:10:23.404+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:10:23.404+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:10:23.428+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:10:23.454+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:10:23.453+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:10:23.492+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:10:23.491+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:10:23.534+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 3.027 seconds
+[2024-04-01T22:11:02.956+0530] {processor.py:161} INFO - Started process (PID=42960) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:11:02.958+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:11:02.959+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:11:02.959+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:11:05.106+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:11:05.105+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:11:05.922+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:11:05.922+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:11:05.943+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:11:05.976+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:11:05.975+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:11:06.022+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:11:06.022+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:11:06.067+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 3.116 seconds
+[2024-04-01T22:12:16.573+0530] {processor.py:161} INFO - Started process (PID=43975) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:16.575+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:12:16.577+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:16.576+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:17.680+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:17.679+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:12:18.174+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:18.173+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:12:18.194+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:18.213+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:18.213+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:12:18.250+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:18.250+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:12:18.296+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.727 seconds
+[2024-04-01T22:12:56.019+0530] {processor.py:161} INFO - Started process (PID=44434) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:56.022+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:12:56.024+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:56.023+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:58.303+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:58.302+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:12:58.944+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:58.943+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:12:58.966+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:12:58.997+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:58.995+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:12:59.057+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:12:59.057+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:12:59.100+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 3.086 seconds
+[2024-04-01T22:13:34.395+0530] {processor.py:161} INFO - Started process (PID=45219) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:13:34.396+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:13:34.398+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:13:34.397+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:13:35.432+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:13:35.431+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:13:36.045+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:13:36.045+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:13:36.087+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:13:36.134+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:13:36.133+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:13:36.231+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:13:36.230+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:13:36.300+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.909 seconds
+[2024-04-01T22:14:08.554+0530] {processor.py:161} INFO - Started process (PID=45611) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:14:08.557+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:14:08.559+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:14:08.559+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:14:09.653+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:14:09.652+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:14:09.999+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:14:09.998+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:14:10.010+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:14:10.022+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:14:10.022+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:14:10.047+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:14:10.046+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:14:10.071+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.524 seconds
+[2024-04-01T22:15:08.514+0530] {processor.py:161} INFO - Started process (PID=46620) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:15:08.516+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:15:08.517+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:15:08.517+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:15:09.337+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:15:09.337+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:15:09.763+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:15:09.763+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:15:09.785+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:15:09.806+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:15:09.805+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:15:09.850+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:15:09.849+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:15:09.894+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.385 seconds
+[2024-04-01T22:16:00.557+0530] {processor.py:161} INFO - Started process (PID=47279) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:00.559+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:16:00.560+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:00.559+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:01.367+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:01.365+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:16:01.930+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:01.929+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:16:01.950+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:01.979+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:01.978+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:16:02.026+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:02.025+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:16:02.070+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.516 seconds
+[2024-04-01T22:16:53.535+0530] {processor.py:161} INFO - Started process (PID=48255) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:53.536+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:16:53.537+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:53.537+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:54.342+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:54.341+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:16:54.707+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:54.707+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:16:54.724+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:16:54.746+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:54.746+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:16:54.781+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:16:54.780+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:16:54.827+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.296 seconds
+[2024-04-01T22:17:47.453+0530] {processor.py:161} INFO - Started process (PID=49194) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:17:47.455+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:17:47.456+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:17:47.455+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:17:48.379+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:17:48.378+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:17:48.805+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:17:48.805+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:17:48.817+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:17:48.836+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:17:48.835+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:17:48.886+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:17:48.885+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:17:48.919+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.470 seconds
+[2024-04-01T22:18:40.079+0530] {processor.py:161} INFO - Started process (PID=49814) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:18:40.080+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:18:40.082+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:18:40.081+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:18:41.200+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:18:41.199+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:18:41.742+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:18:41.741+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:18:41.762+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:18:41.803+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:18:41.802+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:18:41.871+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:18:41.870+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:18:41.946+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.871 seconds
+[2024-04-01T22:19:32.130+0530] {processor.py:161} INFO - Started process (PID=50772) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:19:32.132+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:19:32.134+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:19:32.133+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:19:33.513+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:19:33.512+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:19:33.917+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:19:33.917+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:19:33.930+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:19:33.952+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:19:33.951+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:19:33.979+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:19:33.979+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:19:34.008+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.882 seconds
+[2024-04-01T22:24:49.797+0530] {processor.py:161} INFO - Started process (PID=55623) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:24:49.798+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:24:49.799+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:24:49.799+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:24:50.656+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:24:50.656+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:24:50.863+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:24:50.863+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:24:50.876+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:24:50.894+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:24:50.893+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:24:50.915+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:24:50.915+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:24:50.957+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.164 seconds
+[2024-04-01T22:25:45.362+0530] {processor.py:161} INFO - Started process (PID=56274) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:25:45.363+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:25:45.364+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:25:45.364+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:25:46.389+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:25:46.388+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:25:46.716+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:25:46.716+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:25:46.731+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:25:46.927+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:25:46.926+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:25:46.980+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:25:46.980+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:25:47.023+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.664 seconds
+[2024-04-01T22:26:56.322+0530] {processor.py:161} INFO - Started process (PID=57385) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:26:56.324+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:26:56.324+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:26:56.324+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:26:57.017+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:26:57.016+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:26:57.207+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:26:57.207+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:26:57.219+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:26:57.238+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:26:57.238+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:26:57.265+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:26:57.265+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:26:57.290+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 0.972 seconds
+[2024-04-01T22:27:51.671+0530] {processor.py:161} INFO - Started process (PID=58416) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:27:51.673+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:27:51.675+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:27:51.674+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:27:52.482+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:27:52.482+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:27:52.693+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:27:52.693+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:27:52.702+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:27:52.828+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:27:52.827+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:27:52.848+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:27:52.848+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:27:52.879+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.213 seconds
+[2024-04-01T22:28:42.826+0530] {processor.py:161} INFO - Started process (PID=59124) to work on /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:28:42.838+0530] {processor.py:830} INFO - Processing file /home/lucky/airflow/dags/analytics.py for tasks to queue
+[2024-04-01T22:28:42.839+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:28:42.838+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:28:43.561+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:28:43.560+0530] {native_type_compatibility.py:340} INFO - Using Any for unsupported type: typing.Sequence[~T]
+[2024-04-01T22:28:43.834+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:28:43.834+0530] {bigquery.py:440} INFO - No module named google.cloud.bigquery_storage_v1. As a result, the ReadFromBigQuery transform *CANNOT* be used with `method=DIRECT_READ`.
+[2024-04-01T22:28:43.849+0530] {processor.py:840} INFO - DAG(s) 'analytics' retrieved from /home/lucky/airflow/dags/analytics.py
+[2024-04-01T22:28:43.865+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:28:43.865+0530] {dag.py:3036} INFO - Sync 1 DAGs
+[2024-04-01T22:28:44.025+0530] {logging_mixin.py:188} INFO - [2024-04-01T22:28:44.024+0530] {dag.py:3823} INFO - Setting next_dagrun for analytics to 2024-03-02 00:00:00+00:00, run_after=2024-03-02 00:01:00+00:00
+[2024-04-01T22:28:44.048+0530] {processor.py:183} INFO - Processing /home/lucky/airflow/dags/analytics.py took 1.225 seconds

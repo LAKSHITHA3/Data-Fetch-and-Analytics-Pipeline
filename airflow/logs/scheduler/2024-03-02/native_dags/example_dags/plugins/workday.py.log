@@ -1,0 +1,180 @@
+[2024-03-02T13:15:33.740+0530] {processor.py:161} INFO - Started process (PID=3811) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:15:33.743+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:15:33.748+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:15:33.746+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:15:33.757+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:15:33.756+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:15:33.758+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:15:33.796+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.067 seconds
+[2024-03-02T13:16:38.690+0530] {processor.py:161} INFO - Started process (PID=4494) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:16:38.706+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:16:38.708+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:16:38.707+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:16:38.717+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:16:38.716+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:16:38.719+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:16:38.752+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.068 seconds
+[2024-03-02T13:17:39.417+0530] {processor.py:161} INFO - Started process (PID=5364) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:17:39.431+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:17:39.434+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:17:39.433+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:17:39.442+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:17:39.441+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:17:39.443+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:17:39.471+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.058 seconds
+[2024-03-02T13:18:37.637+0530] {processor.py:161} INFO - Started process (PID=5871) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:18:37.640+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:18:37.642+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:18:37.641+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:18:37.648+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:18:37.647+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:18:37.649+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:18:37.672+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.040 seconds
+[2024-03-02T13:19:36.589+0530] {processor.py:161} INFO - Started process (PID=6701) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:19:36.603+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:19:36.604+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:19:36.604+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:19:36.610+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:19:36.609+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:19:36.611+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:19:36.629+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-03-02T13:20:33.765+0530] {processor.py:161} INFO - Started process (PID=7205) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:20:33.779+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:20:33.782+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:20:33.781+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:20:33.788+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:20:33.787+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:20:33.789+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:20:33.811+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.052 seconds
+[2024-03-02T13:21:30.007+0530] {processor.py:161} INFO - Started process (PID=8024) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:21:30.021+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:21:30.022+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:21:30.022+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:21:30.027+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:21:30.026+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:21:30.028+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:21:30.058+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.060 seconds
+[2024-03-02T13:22:30.994+0530] {processor.py:161} INFO - Started process (PID=8669) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:22:31.009+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:22:31.012+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:22:31.011+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:22:31.019+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:22:31.018+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:22:31.020+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:22:31.049+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.063 seconds
+[2024-03-02T13:23:39.849+0530] {processor.py:161} INFO - Started process (PID=9635) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:23:39.865+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:23:39.871+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:23:39.870+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:23:39.878+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:23:39.877+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:23:39.878+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:23:39.900+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.056 seconds
+[2024-03-02T13:24:41.718+0530] {processor.py:161} INFO - Started process (PID=10186) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:24:41.732+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:24:41.736+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:24:41.735+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:24:41.752+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:24:41.751+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:24:41.753+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:24:41.788+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.080 seconds
+[2024-03-02T13:25:44.565+0530] {processor.py:161} INFO - Started process (PID=11098) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:25:44.579+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:25:44.582+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:44.581+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:25:44.591+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:25:44.590+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:25:44.592+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:25:44.616+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.059 seconds
+[2024-03-02T13:26:46.683+0530] {processor.py:161} INFO - Started process (PID=11633) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:26:46.697+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:26:46.699+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:26:46.698+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:26:46.708+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:26:46.707+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:26:46.710+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:26:46.730+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.053 seconds
+[2024-03-02T13:27:45.609+0530] {processor.py:161} INFO - Started process (PID=12497) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:27:45.622+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:27:45.623+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:27:45.623+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:27:45.628+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:27:45.627+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:27:45.628+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:27:45.642+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.037 seconds
+[2024-03-02T13:29:11.408+0530] {processor.py:161} INFO - Started process (PID=13420) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:29:11.412+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:29:11.416+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:29:11.414+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:29:11.426+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:29:11.425+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:29:11.428+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:29:11.479+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.078 seconds
+[2024-03-02T13:32:11.737+0530] {processor.py:161} INFO - Started process (PID=15412) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:32:11.750+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:32:11.752+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:32:11.751+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:32:11.757+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:32:11.756+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:32:11.758+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:32:11.776+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.043 seconds
+[2024-03-02T13:34:44.629+0530] {processor.py:161} INFO - Started process (PID=17037) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:34:44.642+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:34:44.644+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:34:44.643+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:34:44.649+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:34:44.648+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:34:44.650+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:34:44.670+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.048 seconds
+[2024-03-02T13:35:43.775+0530] {processor.py:161} INFO - Started process (PID=17946) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:35:43.778+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:35:43.780+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:35:43.779+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:35:43.785+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:35:43.785+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:35:43.786+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:35:43.806+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.037 seconds
+[2024-03-02T13:37:41.801+0530] {processor.py:161} INFO - Started process (PID=19305) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:37:41.805+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T13:37:41.808+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:37:41.807+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:37:41.815+0530] {logging_mixin.py:188} INFO - [2024-03-02T13:37:41.814+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T13:37:41.816+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T13:37:41.840+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.046 seconds
+[2024-03-02T16:15:23.570+0530] {processor.py:161} INFO - Started process (PID=121100) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:15:23.572+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:15:23.573+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:15:23.572+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:15:23.576+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:15:23.575+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:15:23.576+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:15:23.589+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-03-02T16:16:21.768+0530] {processor.py:161} INFO - Started process (PID=121947) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:16:21.770+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:16:21.772+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:16:21.771+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:16:21.775+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:16:21.774+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:16:21.775+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:16:21.788+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.025 seconds
+[2024-03-02T16:20:39.931+0530] {processor.py:161} INFO - Started process (PID=125446) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:20:39.933+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:20:39.934+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:20:39.933+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:20:39.936+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:20:39.936+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:20:39.937+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:20:39.947+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2024-03-02T16:21:36.083+0530] {processor.py:161} INFO - Started process (PID=126062) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:21:36.085+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:21:36.088+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:21:36.087+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:21:36.095+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:21:36.094+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:21:36.096+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:21:36.117+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.038 seconds
+[2024-03-02T16:22:25.720+0530] {processor.py:161} INFO - Started process (PID=126834) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:22:25.732+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:22:25.733+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:22:25.732+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:22:25.736+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:22:25.736+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:22:25.737+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:22:25.748+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.032 seconds
+[2024-03-02T16:23:21.256+0530] {processor.py:161} INFO - Started process (PID=127505) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:23:21.257+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:23:21.259+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:23:21.258+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:23:21.261+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:23:21.261+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:23:21.262+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:23:21.275+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.023 seconds
+[2024-03-02T16:32:45.647+0530] {processor.py:161} INFO - Started process (PID=134829) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:32:45.649+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:32:45.650+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:32:45.650+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:32:45.654+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:32:45.654+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:32:45.655+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:32:45.671+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.029 seconds
+[2024-03-02T16:33:35.545+0530] {processor.py:161} INFO - Started process (PID=135757) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:33:35.547+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:33:35.549+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:33:35.548+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:33:35.552+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:33:35.552+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:33:35.553+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:33:35.565+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.024 seconds
+[2024-03-02T16:34:25.096+0530] {processor.py:161} INFO - Started process (PID=136313) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:34:25.098+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:34:25.100+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:34:25.099+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:34:25.104+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:34:25.104+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:34:25.105+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:34:25.121+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds
+[2024-03-02T16:35:22.990+0530] {processor.py:161} INFO - Started process (PID=137115) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:35:22.991+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:35:22.992+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:35:22.992+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:35:22.995+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:35:22.994+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:35:22.995+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:35:23.005+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-03-02T16:36:05.962+0530] {processor.py:161} INFO - Started process (PID=137641) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:36:05.963+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:36:05.964+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:36:05.964+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:36:05.967+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:36:05.967+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:36:05.967+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:36:05.977+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.018 seconds
+[2024-03-02T16:37:06.077+0530] {processor.py:161} INFO - Started process (PID=138434) to work on /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:37:06.079+0530] {processor.py:830} INFO - Processing file /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-03-02T16:37:06.080+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:37:06.080+0530] {dagbag.py:538} INFO - Filling up the DagBag from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:37:06.083+0530] {logging_mixin.py:188} INFO - [2024-03-02T16:37:06.083+0530] {workday.py:40} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-03-02T16:37:06.084+0530] {processor.py:842} WARNING - No viable dags retrieved from /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2024-03-02T16:37:06.095+0530] {processor.py:183} INFO - Processing /home/lucky/.local/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
