@@ -10,6 +10,7 @@ Selects a random subset of data files using a Python Operator.
 Downloads the selected individual data files using a Bash or Python Operator.
 Zips the downloaded files into an archive using a Python Operator.
 Places the archive at a designated location using a Bash or Python Operator.
+
 Data Processing Pipeline (Pipeline 2):
 
 Uses a FileSensor to wait for the archive to become available at the designated location (with a timeout).
@@ -21,12 +22,14 @@ Computes monthly averages of the required fields.
 Creates visualizations (heatmaps) using geopandas and geodatasets libraries. Exports plots as PNG images.
 (Optional) Creates a GIF animation using ffmpeg or equivalent tool from the PNG images.
 Deletes the processed CSV files.
+
 Key Technologies:
 
 Apache Airflow for workflow orchestration.
 Apache Beam for parallel data processing.
 Python for data manipulation and visualization.
 Bash for system commands.
+
 Note:
 
 This repository requires separate Python files for DAGs and Beam pipelines.
@@ -36,6 +39,9 @@ The code prioritizes clean coding style, correctness, readability, and input val
 Getting Started:
 
 Clone this repository.
+
 Install required dependencies (refer to code for details).
+
 Configure Airflow connection details and DAG parameters.
+
 Run Airflow to execute the pipelines.
